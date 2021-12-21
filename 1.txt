@@ -1,2 +1,3 @@
 name : Snake
 length : 38cm
+color : green
