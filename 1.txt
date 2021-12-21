@@ -1,1 +1,2 @@
 name : Snake
+length : 38cm
