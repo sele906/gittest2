@@ -1,1 +1,2 @@
 name : mouse
+length : 3cm
